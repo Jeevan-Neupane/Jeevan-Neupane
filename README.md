@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linked-in 
+- 📫 How to reach me jeevanneupane.com.np
 
 <!---
 Jeevan-Neupane/Jeevan-Neupane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
