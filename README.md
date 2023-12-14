@@ -32,7 +32,7 @@
 
 
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
 
 - 💬 Ask me about ** react, next, nodejs, mongoDB**
 
