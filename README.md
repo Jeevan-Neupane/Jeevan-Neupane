@@ -70,6 +70,12 @@
   </ul>
 </div>
 
+<a href="https://www.buymeacoffee.com/omsharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+### My GitHub Stats
+![Om's GitHub Stat](https://github-readme-stats.vercel.app/api?username=Jeevan-Neupane&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-Neupane)
+
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/jeevan-neupane-16a407258/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
