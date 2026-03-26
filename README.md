@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Engineering @ Pulchowk Campus  
-- 🤖 Research Intern @ **NAAMII** — working on X-ray → 3D bone reconstruction  
-- 💻 SWE Intern @ **IOE** — building & improving exam systems  
-- 🌐 Full Stack Developer (React, Next, Node, FastAPI)  
-- 🔭 Interests: AI/ML, CV, 3D deep learning, systems, cloud
+## About Me
+- Computer Engineering @ Pulchowk Campus  
+- Research Intern @ **NAAMII** — working on X-ray → 3D bone reconstruction  
+- SWE Intern @ **IOE** — building & improving exam systems  
+- Full Stack Developer (React, Next, Node, FastAPI)  
+-Interests: AI/ML, CV, 3D deep learning, systems, cloud
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 ### **X-Ray to 3D Bone Reconstruction**
 AI pipeline to reconstruct 3D bones from 2D radiographs using transformers and mesh deformation.  
 **Tech:** PyTorch, DRR, 3D Vision, Transformers
@@ -33,7 +33,7 @@ React + FastAPI + BERT sentiment analyzer with interactive dashboard.
 
 ---
 
-## 🛠 Skills
+## Skills
 **Languages:** Python, C/C++, JavaScript, TypeScript  
 **Frontend:** React, Next.js, Tailwind  
 **Backend:** Node.js, Express, FastAPI  
@@ -43,7 +43,7 @@ React + FastAPI + BERT sentiment analyzer with interactive dashboard.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
 <a href="https://x.com/JeevanNeup38484"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"></a>
 <a href="https://www.linkedin.com/in/jeevanneupane1/"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
@@ -53,7 +53,7 @@ React + FastAPI + BERT sentiment analyzer with interactive dashboard.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats-sumanth-talluri.vercel.app/api?username=Jeevan-Neupane&show_icons=true&theme=dracula&hide_border=true" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevan-Neupane&theme=dracula&hide_border=true" width="400">
