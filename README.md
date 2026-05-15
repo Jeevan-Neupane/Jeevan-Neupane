@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Jeevan</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=26&color=F74D3F&vCenter=true&lines=Developer+%7C+AI+Enthusiast;Full+Stack+%2B+Deep+Learning;Researching+3D+Medical+AI;Always+Building+%26+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=26&color=F74D3F&vCenter=true&lines=Building+AI+for+Healthcare;Full+Stack+Developer+%7C+AI+Engineer;Speech-to-Text+for+Medical+Documentation;Always+Building+%26+Learning)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeevan-Neupane&color=red&style=flat">
@@ -9,37 +9,59 @@
 ---
 
 ## About Me
-- Computer Engineering @ Pulchowk Campus  
-- Research Intern @ **NAAMII** — working on X-ray → 3D bone reconstruction  
-- SWE Intern @ **IOE** — building & improving exam systems  
-- Full Stack Developer (React, Next, Node, FastAPI)  
--Interests: AI/ML, CV, 3D deep learning, systems, cloud
+- Computer Engineering Graduate from Pulchowk Campus  
+- Co-founder & Developer at a healthcare AI startup focused on AI-powered medical documentation  
+- Building speech-to-text systems for Nepali + English mixed medical conversations  
+- Working on making healthcare documentation faster, simpler, and more affordable for hospitals and clinics  
+- Former Research Intern @ **NAAMII** — worked on X-ray to 3D bone reconstruction  
+- Former SWE Intern @ **IOE** — contributed to exam management systems  
+- Interested in AI/ML, healthcare AI, speech systems, computer vision, and scalable backend systems  
+
+---
+
+## What I'm Building
+### **AI Medical Documentation System**
+AI-powered speech-to-text platform designed for healthcare professionals to reduce manual documentation work.  
+Supports Nepali-English mixed conversations and generates structured clinical notes.
+
+**Tech:** FastAPI, React, Next.js, PyTorch, Whisper, Docker, AWS
 
 ---
 
 ## Featured Projects
 ### **X-Ray to 3D Bone Reconstruction**
-AI pipeline to reconstruct 3D bones from 2D radiographs using transformers and mesh deformation.  
-**Tech:** PyTorch, DRR, 3D Vision, Transformers
+Research project focused on reconstructing 3D bone structures from 2D X-rays using deep learning and transformers.  
+**Tech:** PyTorch, DRR, Transformers, 3D Vision
 
 ### **Retinal Disease Classification**
-Multi-label & multi-class classification using EfficientNet, ResNet, and ensembles.
+Deep learning models for multi-class and multi-label retinal disease prediction.  
+**Tech:** EfficientNet, ResNet, Ensemble Learning
 
 ### **Human Action Recognition**
-Video Transformers (VideoMAE, SlowFast, VIViT) trained on UCF-101 & NTU RGB+D.
+Video understanding models trained on action recognition datasets.  
+**Tech:** VideoMAE, SlowFast, VIViT
 
 ### **Influencer Insight**
-React + FastAPI + BERT sentiment analyzer with interactive dashboard.
+Social media sentiment analysis dashboard with interactive analytics.  
+**Tech:** React, FastAPI, BERT
 
 ---
 
 ## Skills
 **Languages:** Python, C/C++, JavaScript, TypeScript  
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express, FastAPI  
-**AI/ML:** PyTorch, NumPy, Pandas, Scikit-learn  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, FastAPI  
+**AI/ML:** PyTorch, Scikit-learn, NumPy, Pandas  
 **Databases:** MongoDB, MySQL  
-**Tools:** Docker, Git, Linux, AWS  
+**Tools & Cloud:** Docker, Git, Linux, AWS
+
+---
+
+## Current Focus
+- Healthcare AI & Medical Speech Recognition  
+- Clinical Documentation Automation  
+- Scalable AI Systems  
+- Building real-world AI products for Nepal  
 
 ---
 
